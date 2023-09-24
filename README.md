@@ -17,7 +17,3 @@ Formo brings a fresh approach to surveys, ensuring authenticity, transparency, a
 - 🏛️ **Government Polling**: Transparent, tamper-proof polling.
 - 🏢 **Employee Feedback**: Honest feedback for a better work culture.
 - 🩺 **Healthcare Surveys**: Secure patient data collection.
-
----
-
-Replace the placeholder text as needed, and feel free to adjust the emojis to better fit your project's theme or branding.
